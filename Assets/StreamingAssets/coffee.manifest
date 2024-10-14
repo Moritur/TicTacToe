@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2186068045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53faf77b4f60ddf2de1fe6cb154c9c4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 53faf77b4f60ddf2de1fe6cb154c9c4b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Mary/coffee.PNG
+- Assets/Textures/Mary/table.PNG
+- Assets/Textures/Mary/muffin.PNG
+Dependencies: []
